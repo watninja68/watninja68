@@ -1,35 +1,45 @@
+
 👋 Hey there! I'm Karneeshkar, the ninja behind @watninja68!
-<br>
+
 <p align="center">
-<a href="https://x.com/__K4KAR_">
-  <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW56ZXFhMDB4cWR0cWt5eW1tZmVpbDNmMHB3bmpqYml6dmlrcjkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"/>
-</a><br><br>
-  </p>
-🛠️ By day, I'm juggling code in Python, Rust, and C++ From crafting cloud-based bots to taming wild ESP32s, my keyboard adventures span Web, AI, and IoT—basically, if it's got bytes, I've probably tinkered with it.
+  <a href="https://x.com/__K4KAR_">
+    <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW56ZXFhMDB4cWR0cWt5eW1tZmVpbDNmMHB3bmpqYml6dmlrcjkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"/>
+  </a>
+</p>
 
-🚗 Currently making cars smarter at Visteon – 25% less lag, 96% fewer bugs, and 100% fewer dashboards flying out the window (so far!).
+🛠️ By day, I'm juggling code in Python, Rust, and C++. From crafting cloud-based bots to taming wild ESP32s, my keyboard adventures span Web, AI, and IoT—basically, if it's got bytes, I've probably tinkered with it.
 
-✨ Motto: "If at first you don't succeed, sudo it."
+🚗 Currently making cars smarter at **Visteon** – 25% less lag, 96% fewer bugs, and 100% fewer dashboards flying out the window (so far!).
 
-🚀 Always excited about projects at the intersection of AI and embedded systems—because who doesn't love teaching silicon brains new tricks?
+✨ Motto: **"If at first you don't succeed, sudo it."**
 
-🔗 Check out my projects to witness the organized chaos!
+🚀 Always excited about projects and fellow nerds!
 
-Always Happy to connect with new nerds 
+🔗 **Check out my projects to witness the organized chaos!**
 
-Happy coding! 🍕💻😄
+---
 
-<!--
-**watninja68/watninja68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Find me around the web:
+<p align="center">
+  <a href="https://github.com/watninja68">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/__K4KAR_">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/karneeshkar-velmurugan">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://karneeshkar.tech">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always happy to connect with fellow nerds! 🚀  
+
+**Happy coding!** 🍕💻😄
