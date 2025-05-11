@@ -42,7 +42,7 @@ interests:
 
 🛠️ By day, I'm juggling code in Python, Rust, and C++. From crafting cloud-based bots to taming wild ESP32s, my keyboard adventures span Web, AI, and IoT—basically, if it's got bytes, I've probably tinkered with it.
 
-🚗 Currently making cars smarter at **Visteon** – 25% less lag, 96% fewer bugs, and 100% fewer dashboards flying out the window (so far!).
+🚗 Currently making cars smarter at **Visteon** 
 
 ✨ Motto: **"If at first you don't succeed, sudo it."**
 
@@ -104,3 +104,6 @@ interests:
 </p>Always happy to connect with fellow nerds! 🚀  
 
 **Happy coding!** 🍕💻😄
+
+
+![Watninja's GitHub stats](https://github-readme-stats.vercel.app/api?username=watninja68&show_icons=true&theme=catppuccin_mocha)
