@@ -107,4 +107,4 @@ interests:
 
 
 ![Watninja's GitHub stats](https://github-readme-stats.vercel.app/api?username=watninja68&show_icons=true&theme=catppuccin_mocha)
-![Snake animation](https://github.com/watninja68/watninja68/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/watninja68/watninja68/output/github-contribution-grid-snake.svg)
