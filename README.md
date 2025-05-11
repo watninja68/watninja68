@@ -1,12 +1,19 @@
+# 👋 Hey there! I'm Karneeshkar, the ninja behind @watninja68!
 
-👋 Hey there! I'm Karneeshkar, the ninja behind @watninja68!
-# A Bit About Myself
-````yaml
-name: "Karneeshkar V"
-alias: "watninja68"
-current_role: "Software Developer @ Visteon"
-location: "Chennai, India"
+<p align="center">
+  <a href="https://x.com/__K4KAR_">
+    <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW56ZXFhMDB4cWR0cWt5eW1tZmVpbDNmMHB3bmpqYml6dmlrcjkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"/>
+  </a>
+</p>
 
+## 💻 Current Status
+🚗 Currently making cars smarter at **Visteon** as a **Software Developer**  
+📍 Based in **Chennai, India**  
+✨ Motto: **"If at first you don't succeed, sudo it."**
+
+## 🔧 Tech Profile
+
+```yaml
 skills:
   programming_languages:
     - "Python"
@@ -30,49 +37,17 @@ interests:
   - "Edge AI and IoT"
   - "VR & Gesture Recognition"
   - "Open Source"
-  - "AI "
+  - "AI"
+```
 
+## 🛠️ About Me
+By day, I'm juggling code in Python, Rust, and C++. From crafting cloud-based bots to taming wild ESP32s, my keyboard adventures span Web, AI, and IoT—basically, if it's got bytes, I've probably tinkered with it.
 
-````
-<p align="center">
-  <a href="https://x.com/__K4KAR_">
-    <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW56ZXFhMDB4cWR0cWt5eW1tZmVpbDNmMHB3bmpqYml6dmlrcjkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"/>
-  </a>
-</p>
-
-🛠️ By day, I'm juggling code in Python, Rust, and C++. From crafting cloud-based bots to taming wild ESP32s, my keyboard adventures span Web, AI, and IoT—basically, if it's got bytes, I've probably tinkered with it.
-
-🚗 Currently making cars smarter at **Visteon** 
-
-✨ Motto: **"If at first you don't succeed, sudo it."**
-
-🚀 Always excited about projects and fellow nerds!
-
+🚀 Always excited about projects and fellow nerds!  
 🔗 **Check out my projects to witness the organized chaos!**
 
----
+## 🚀 My Tech Stack
 
-### 🌐 Find me around the web:
-<p align="center">
-  <a href="https://github.com/watninja68">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/__K4KAR_">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/karneeshkar-velmurugan">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://karneeshkar.tech">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
-  </a>
-</p>
-
----
-🚀  My Tech Stack
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
@@ -101,12 +76,40 @@ interests:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="neovim" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/zephyrproject-rtos/zephyr/main/doc/_static/images/kite.png" alt="zephyr" width="45" height="45"/>
-</p>Always happy to connect with fellow nerds! 🚀  
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=watninja68&show_icons=true&theme=catppuccin_mocha" alt="Watninja's GitHub stats" />
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/watninja68/watninja68/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/watninja68">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/__K4KAR_">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/karneeshkar-velmurugan">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://karneeshkar.tech">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+  </a>
+</p>
+
+Always happy to connect with fellow nerds! 🚀  
 
 **Happy coding!** 🍕💻😄
-
-
-![Watninja's GitHub stats](https://github-readme-stats.vercel.app/api?username=watninja68&show_icons=true&theme=catppuccin_mocha)
-<br>
-![Snake animation](https://raw.githubusercontent.com/watninja68/watninja68/output/github-contribution-grid-snake.svg)
-<br>
