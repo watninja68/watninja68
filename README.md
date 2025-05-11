@@ -8,7 +8,6 @@
 
 ## 💻 Current Status
 🚗 Currently making cars smarter at **Visteon** as a **Software Developer**  
-📍 Based in **Chennai, India**  
 ✨ Motto: **"If at first you don't succeed, sudo it."**
 
 ## 🔧 Tech Profile
@@ -19,6 +18,7 @@ skills:
     - "Python"
     - "Rust"
     - "C/C++"
+    - "Go"
     - "JavaScript"
     - "SQL"
   tech_stack:
@@ -30,18 +30,17 @@ skills:
     - "Docker"
     - "Zephyr RTOS"
     - "ESP32"
-    - "STM32"
+    - "Raspberry PI"
 
 interests:
-  - "Smart Automotive Systems"
+  - "Linux"
+  - "Web"
   - "Edge AI and IoT"
-  - "VR & Gesture Recognition"
-  - "Open Source"
   - "AI"
 ```
 
 ## 🛠️ About Me
-By day, I'm juggling code in Python, Rust, and C++. From crafting cloud-based bots to taming wild ESP32s, my keyboard adventures span Web, AI, and IoT—basically, if it's got bytes, I've probably tinkered with it.
+By day, I'm juggling code in python, rust, and c++. from crafting cloud-based bots to taming wild esp32s, my keyboard adventures span web, ai, and iot—basically, if it's got bytes, I've probably tinkered with it.
 
 🚀 Always excited about projects and fellow nerds!  
 🔗 **Check out my projects to witness the organized chaos!**
