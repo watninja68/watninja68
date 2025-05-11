@@ -1,6 +1,45 @@
 
 👋 Hey there! I'm Karneeshkar, the ninja behind @watninja68!
+# A Bit About Myself
+'''yaml
+name: "Karneeshkar V"
+alias: "watninja68"
+current_role: "Software Developer @ Visteon"
+location: "Chennai, India"
 
+skills:
+  programming_languages:
+    - "Python"
+    - "Rust"
+    - "C/C++"
+    - "JavaScript"
+    - "SQL"
+  tech_stack:
+    - "Full Stack Development"
+    - "Generative AI & LLMs"
+    - "Embedded Systems/IoT"
+  tools_and_platforms:
+    - "AWS"
+    - "Docker"
+    - "Zephyr RTOS"
+    - "ESP32"
+    - "STM32"
+
+motto: "If at first you don't succeed, sudo it."
+
+interests:
+  - "Smart Automotive Systems 🚗"
+  - "Edge AI and IoT 🌐"
+  - "VR & Gesture Recognition 🕹️"
+  - "Open Source 🌟"
+  - "Taming silicon brains 🧠"
+
+social_links:
+  github: "https://github.com/watninja68"
+  linkedin: "https://linkedin.com/in/karneeshkar-velmurugan"
+  twitter: "https://x.com/__K4KAR_"
+  portfolio: "https://karneeshkar.tech"
+'''
 <p align="center">
   <a href="https://x.com/__K4KAR_">
     <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW56ZXFhMDB4cWR0cWt5eW1tZmVpbDNmMHB3bmpqYml6dmlrcjkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"/>
