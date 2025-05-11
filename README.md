@@ -110,4 +110,3 @@ interests:
 <br>
 ![Snake animation](https://raw.githubusercontent.com/watninja68/watninja68/output/github-contribution-grid-snake.svg)
 <br>
-![GitHub Snake](https://raw.githubusercontent.com/watninja68/watninja68/output/github-contribution-grid-snake.svg)
