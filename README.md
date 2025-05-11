@@ -40,9 +40,9 @@ interests:
 ```
 
 ## 🛠️ About Me
-By day, I'm juggling code in python, rust, and c++. from crafting cloud-based bots to taming wild esp32s, my keyboard adventures span web, ai, and iot—basically, if it's got bytes, I've probably tinkered with it.
+By day, I'm juggling code in python, rust, and c++. from crafting cloud-based bots to esp32s, my adventures span web, ai, and iot—basically, if it's got bytes, I've probably tinkered with it.
 
-🚀 Always excited about projects and fellow nerds!  
+🚀 Always excited about projects and love to talk fellow nerds!  
 🔗 **Check out my projects to witness the organized chaos!**
 
 ## 🚀 My Tech Stack
