@@ -1,6 +1,6 @@
 👋 Hey there! I'm Karneeshkar, the ninja behind @watninja68!
 <a href="https://x.com/__K4KAR_">
-  <img height="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW56ZXFhMDB4cWR0cWt5eW1tZmVpbDNmMHB3bmpqYml6dmlrcjkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"/>
+  <img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW56ZXFhMDB4cWR0cWt5eW1tZmVpbDNmMHB3bmpqYml6dmlrcjkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"/>
 </a>
 🛠️ By day, I'm juggling code in Python, Rust, and C++ From crafting cloud-based bots to taming wild ESP32s, my keyboard adventures span Web, AI, and IoT—basically, if it's got bytes, I've probably tinkered with it.
 
