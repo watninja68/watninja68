@@ -1,7 +1,7 @@
 
 👋 Hey there! I'm Karneeshkar, the ninja behind @watninja68!
 # A Bit About Myself
-'''yaml
+````yaml
 name: "Karneeshkar V"
 alias: "watninja68"
 current_role: "Software Developer @ Visteon"
@@ -39,7 +39,7 @@ social_links:
   linkedin: "https://linkedin.com/in/karneeshkar-velmurugan"
   twitter: "https://x.com/__K4KAR_"
   portfolio: "https://karneeshkar.tech"
-'''
+````
 <p align="center">
   <a href="https://x.com/__K4KAR_">
     <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW56ZXFhMDB4cWR0cWt5eW1tZmVpbDNmMHB3bmpqYml6dmlrcjkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"/>
