@@ -109,6 +109,6 @@ By day, I'm juggling code in python, rust, and c++. from crafting cloud-based bo
   </a>
 </p>
 
-Always happy to connect with fellow nerds! 🚀  
+Always happy to connect with fellow nerds! 
 
-**Happy coding!** 🍕💻😄
+**Happy coding!**
