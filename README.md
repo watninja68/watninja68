@@ -77,11 +77,6 @@ By day, I'm juggling code in python, rust, and c++. from crafting cloud-based bo
   <img src="https://raw.githubusercontent.com/zephyrproject-rtos/zephyr/main/doc/_static/images/kite.png" alt="zephyr" width="45" height="45"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarneeshkarV&show_icons=true&theme=catppuccin_mocha" alt="Watninja68's GitHub stats" />
-</p>
 
 ## 🐍 Contribution Graph
 
