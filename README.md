@@ -80,19 +80,19 @@ By day, I'm juggling code in python, rust, and c++. from crafting cloud-based bo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=watninja68&show_icons=true&theme=catppuccin_mocha" alt="Watninja's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KarneeshkarV&show_icons=true&theme=catppuccin_mocha" alt="Watninja68's GitHub stats" />
 </p>
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/watninja68/watninja68/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/KarneeshkarV/KarneeshkarV/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/watninja68">
+  <a href="https://github.com/KarneeshkarV">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
   &nbsp;
