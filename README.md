@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Karneeshkar, the ninja behind @watninja68!
+# 👋 Hey there! I'm Karneeshkar
 
 <p align="center">
   <a href="https://x.com/__K4KAR_">
