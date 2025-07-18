@@ -7,7 +7,6 @@
 </p>
 
 ## 💻 Current Status
-🚗 Currently making cars smarter at **Visteon** as a **Software Developer**  
 ✨ Motto: **"If at first you don't succeed, sudo it."**
 
 ## 🔧 Tech Profile
